@@ -1,0 +1,25 @@
+body{
+  margin:0;
+  padding: 0;
+}
+
+.mainsection{
+  width: 100%;
+  background-color: #f0fffd;
+
+}
+.main-heading{
+  position: absolute;
+  top: 20px;
+  text-align: center;
+  display: inline-block;
+  color: black;
+  margin-top: 0px;
+  margin-left: 60px;
+  text-align: center;
+}
+.image{
+  display: inline-block;
+  height: 100px;
+  width: 200px
+}
